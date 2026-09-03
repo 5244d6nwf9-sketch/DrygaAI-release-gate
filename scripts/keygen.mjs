@@ -34,4 +34,4 @@ try {
 
 console.log(`private key written to ${privatePath}`);
 console.log(`public key written to ${publicPath}`);
-console.log('Keep the private key outside git and secret stores only.');
+console.log('Keep the private key outside git and only in the intended secure secret store.');
